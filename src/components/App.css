@@ -1,0 +1,22 @@
+#root{
+  font-family: Helvetica, Sans-Serif;
+  background: rgba(255, 255, 255, 0.8);
+  
+}
+
+.navbar {
+ text-align: center;
+ margin: 0px;
+ padding: 0%;
+}
+ul {
+ list-style-type: navbar;
+ background: rgba(255, 255, 255, 0.8);
+ 
+ 
+}
+li {
+ display: inline;
+ margin: 0px;
+ padding: 50px
+}
